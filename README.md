@@ -16,4 +16,4 @@ Detections and Flow
 ![](examples/sc1.gif)
 
 ###KLT Feature Tracking and Optical Flows###
-![](examples/sc2.gif)
+![](examples/sc3.gif)
